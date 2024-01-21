@@ -46,23 +46,6 @@ Built a predictive model to determine the likelihood of survival for passengers 
 2. Follow the step-by-step implementation to understand the process of creating the predictive model.
 3. Check the `data` folder for the Titanic dataset used in the project.
 
-### 3. Cat and Dog Image Classifier
-
-#### Description
-
-Developed an image classification model to distinguish between images of cats and dogs using advanced data science techniques in Python.
-
-#### Files
-
-- **cat_dog_classifier.ipynb**: Jupyter Notebook containing the code for the Cat and Dog Image Classifier project.
-- **data**: Folder with sample images of cats and dogs for training and testing.
-
-#### How to Use
-
-1. Open `cat_dog_classifier.ipynb` in a Jupyter Notebook environment.
-2. Execute each cell sequentially to understand the project implementation and workflow.
-3. Explore the `data` folder for sample images used during training and testing.
-
 ## Acknowledgments
 
 Special thanks to the online data science community and educational resources that contributed to my learning journey. Each project presented here reflects the culmination of theoretical understanding and practical application, demonstrating the skills acquired during this hands-on Data Science experience.
